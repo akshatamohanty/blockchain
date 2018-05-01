@@ -27,7 +27,7 @@ description:      Hey there! My name is Akshata. I am an application developer,
                   I often find myself wandering in the murky cusp between science and art. 
                   If I am not coding, you'll find me thinking, making or 
                   lusting after food! Cheers!
-url:              https://akshatamohanty.github.io/
+url:              https://akshatamohanty.github.io/blockchained
 baseurl:          # /blog
                   # the optional subpath of your site, e.g. "/blog"
                   # NB: This applies to all pages in your Jekyll site.
@@ -135,5 +135,5 @@ version:            1.0.0
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
 github:
-  repo:             https://github.com/akshatamohanty/akshatamohanty.github.io
+  repo:             https://github.com/akshatamohanty/blockchained
 
