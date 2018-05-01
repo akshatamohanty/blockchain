@@ -2,7 +2,7 @@
 
 set -e
 
-DEPLOY_REPO="https://${DEPLOY_BLOG_TOKEN}@github.com/akshatamohanty/akshatamohanty.github.io.git"
+DEPLOY_REPO="https://${DEPLOY_BLOG_TOKEN}@github.com/akshatamohanty/blockchained.git"
 
 function main {
 	clean
