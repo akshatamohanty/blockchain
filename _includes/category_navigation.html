@@ -8,8 +8,8 @@
 					>
 
 		        	<a 
-						{% if collection.label == 'posts' %}href="/"
-						{% else %}href="{{site.baseurl}}/{{ collection.label }}/"
+						{% if collection.label == 'posts' %}href="./"
+						{% else %}href=".{{site.baseurl}}/{{ collection.label }}/"
 						{% endif %}
 		        	>
 		        	{{ collection.label }} 
